@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Francesco Losma
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Francesco Losma
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Francesco
+last_name: Losma
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏔️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: DPhil in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Oxford
+    url: https://www.economics.ox.ac.uk/home
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:francesco.losma@economics.ox.ac.uk'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome! I am a first-year DPhil candidate in Economics at the University of Oxford, where I explore how emerging managerial practices - like telework - and digital innovations - such as AI - are shaping the future of the labour market. If these topics interest you, feel free to reach out!
